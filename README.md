@@ -1,236 +1,95 @@
-<table align="center">
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-</table>
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+</h1>
 
-<h1 align="left">Oi, Eu sou o Guilherme!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guiaquino92&color=blueviolet" alt="Profile views" /> 
-  
-  🤩️ Eu amo tecnologia, conteúdo de desenvolvimento pessoal, psicologia, anime e jogos.
-  
-  🚀 Evoluindo exponencialmente em ReactJS e seu ecossistema..
+Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
-  📫 Como me contatar:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-aquino92/) 
- 
- 
-  <br>
+[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
+[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
-# 💻 Tecnologias:
-<img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="267px">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NextJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br>
-      <sub>
-        <b>
-          <pre>Tailwind</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
-      <sub>
-        <b>
-          <pre>Figma</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+## Objetivo
+Aprender o básico sobre contribuição no GitHub.
+
+## Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+## Percurso
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Etapas</th>
+    </tr>
+  </thead>
+  <tbody align="left">
     <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
-      <sub>
-        <b>
-          <pre>Sass</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
-      <sub>
-        <b>
-          <pre>Express</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="Prisma icon"/><br>
-      <sub>
-        <b>
-          <pre>Prisma</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>React<br>Native</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="Jest icon"/><br>
-      <sub>
-        <b>
-          <pre>Jest</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>CSS3</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Git</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Terminal</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux /<br>Windows</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+      <td>01</td>
+      <td>Introdução ao Lab</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Formas de Contribuir num Projeto Open Source</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Desenvolvendo e Enviando uma Contribuição</td>  
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Dicas e Materiais de Apoio</td>    
+    </tr>
+  </tbody>
 </table>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-# 📊 GitHub Status <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+---
+## Desafio de Projeto da DIO
+Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
+Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
 
-![](https://github-readme-stats.vercel.app/api?username=guiaquinodev&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guiaquinodev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> [!NOTE]   
+> Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
+### Contribua com seu Profile README
+Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
+Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
+ Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+
+#### Utilitários
+
+[![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
+[![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+[![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
+
+> [!IMPORTANT]   
+> Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
+
+### Fórum do Repositório (GitHub Discussions)
+GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. Caso tenha dúvidas, você pode abrir uma discussão, dentro de uma categoria apropriada, na aba "Discussions" do repositório do projeto.
+
+> [!WARNING]  
+> **Atenção:** Antes de criar uma nova discussão, verifique se sua dúvida já foi respondida em discussões anteriores. Use a função de pesquisa para encontrar tópicos relevantes.
+
+---
+
+## Contribua
+[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
+
+ Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/docs). <br>
+ Além disso, você também pode contribuir:
  
- &ensp; 
-# 🔥 Projetos
- <div>
-    <a href="https://github.com/GuiAquinoDev/world-trip" target="_blank">
-      <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiAquinoDev&repo=world-trip&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-   <a href="https://github.com/GuiAquinoDev/spacetraveling" target="_blank">
-      <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiAquinoDev&repo=spacetraveling&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-    </a>
-  </div>
-<br>
+⚠️ Resolvendo, respondendo ou indicando **issues**
 
+⭐ Adicionando aos favoritos (**star**) 
 
+### Membros da comunidade que já contribuiram:
+<a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
+</a>
+
+##
+<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
